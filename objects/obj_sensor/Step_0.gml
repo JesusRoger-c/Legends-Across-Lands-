@@ -9,7 +9,7 @@ var _player = place_meeting(x,y, obj_lila2);
 var _espaco = keyboard_check_released(vk_space);
 
 //O player esta colidindo comigo 
-if(_player && _espaco)
+if(_player && _espaco)  //&& _espaco
 {
 	//Código da transicao 
 	//vai escurecer a tela ao chegar no sensor e liga na tela seguinte 

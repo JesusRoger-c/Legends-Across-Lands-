@@ -11,6 +11,19 @@ _right = keyboard_check(inputs.right);
 _jump = keyboard_check_pressed(inputs.jump);
 
 
+
+//resetar ao perder as vidas 
+if(global.life < 1){
+	game_restart();
+	
+}
+
+
+
+
+
+
+
 //só posso me controlar caso não tenha tomado dano
 if( timer_dano <= 0)
 {

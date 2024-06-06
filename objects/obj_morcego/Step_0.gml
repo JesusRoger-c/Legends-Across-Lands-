@@ -6,7 +6,7 @@
 
 
 //checando se o porco está no chão 
-var _chao = place_meeting(x, y + 1, obj_colisor_morcego);
+var _chao = place_meeting(x, y + 1, obj_colisor);
 
 
 
@@ -53,7 +53,7 @@ else
 }
 
 //Se eu bater na parede eu mudo de direção
-if(place_meeting(x + velh, y, obj_chao))
+if(place_meeting(x + velh, y, obj_colisor))
 {
 	velh *= -1;
 }
