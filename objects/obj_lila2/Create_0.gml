@@ -7,6 +7,7 @@ grav	 = .25;
 vel_jump = 8;
 global.premio = 0;
 global.osso = 1;
+global.lanca = 1;
 global.life = 4;
 
 

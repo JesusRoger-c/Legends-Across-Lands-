@@ -6,8 +6,8 @@
   "name":"obj_inimigo_urso",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"vilao",
+    "path":"folders/Objetos/vilao.yy",
   },
   "parentObjectId":null,
   "persistent":false,

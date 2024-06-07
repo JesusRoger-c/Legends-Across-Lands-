@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_osso",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_lanca",
+  "eventList":[],
   "managed":true,
-  "name":"obj_osso",
+  "name":"obj_lanca",
   "overriddenProperties":[],
   "parent":{
     "name":"Premio",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_osso",
-    "path":"sprites/spr_osso/spr_osso.yy",
+    "name":"spr_lanca",
+    "path":"sprites/spr_lanca/spr_lanca.yy",
   },
   "spriteMaskId":null,
   "visible":true,

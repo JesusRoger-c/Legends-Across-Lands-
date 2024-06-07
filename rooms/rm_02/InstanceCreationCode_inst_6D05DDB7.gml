@@ -1,0 +1,1 @@
+texto = "O osso sera \n usado para domesticacao \n do lobo, caracteristica essa \n do periodo Neolitico";

@@ -9,8 +9,8 @@
   "name":"obj_entidade",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Heranças",
+    "path":"folders/Objetos/Heranças.yy",
   },
   "parentObjectId":null,
   "persistent":false,

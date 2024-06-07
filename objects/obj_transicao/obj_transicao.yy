@@ -11,8 +11,8 @@
   "name":"obj_transicao",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Transicao_Colisao_Vida",
+    "path":"folders/Objetos/Transicao_Colisao_Vida.yy",
   },
   "parentObjectId":null,
   "persistent":true,

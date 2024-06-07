@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_osso",
+  "%Name":"obj_texto",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_osso",
+  "name":"obj_texto",
   "overriddenProperties":[],
   "parent":{
-    "name":"Premio",
-    "path":"folders/Objetos/Premio.yy",
+    "name":"Textos",
+    "path":"folders/Objetos/Textos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_osso",
-    "path":"sprites/spr_osso/spr_osso.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

@@ -6,8 +6,8 @@
   "name":"Obj_lobo_idle",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"vilao",
+    "path":"folders/Objetos/vilao.yy",
   },
   "parentObjectId":null,
   "persistent":false,

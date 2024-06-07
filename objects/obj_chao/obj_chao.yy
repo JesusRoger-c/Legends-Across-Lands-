@@ -6,8 +6,8 @@
   "name":"obj_chao",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Colisor_Sensor_Chao",
+    "path":"folders/Objetos/Colisor_Sensor_Chao.yy",
   },
   "parentObjectId":null,
   "persistent":false,

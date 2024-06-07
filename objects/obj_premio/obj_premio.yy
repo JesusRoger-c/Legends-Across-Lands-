@@ -6,8 +6,8 @@
   "name":"obj_premio",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Premio",
+    "path":"folders/Objetos/Premio.yy",
   },
   "parentObjectId":null,
   "persistent":false,

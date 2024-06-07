@@ -8,8 +8,8 @@
   "name":"obj_inimigo_pai",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Heranças",
+    "path":"folders/Objetos/Heranças.yy",
   },
   "parentObjectId":{
     "name":"obj_entidade",
